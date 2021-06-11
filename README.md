@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @abdelmmu
-- 👀 I’m interested in SRE, GO and C++
-- 🌱 I’m currently learning C++
+- 👀 experienced in SRE field, GO and Java
+- ♥  C++ is in heart
+- 🌱 Rust on track
 - 💞️ I’m looking to collaborate on SRE Projects
 - 📫 How to reach me abdelmmu@pm.me
 
